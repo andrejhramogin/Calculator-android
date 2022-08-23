@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="second_activity_title">Second activity</string>
+    <string name="open_button_text">Open</string>
+    <string name="my_application_title">My application</string>
+    <string name="new_title">New title</string>
+</resources>
