@@ -22,7 +22,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         title = findViewById(R.id.tv_title);
         openButton.setOnClickListener(this);
     }
-
     @Override
     protected void onStart() {
         super.onStart();
