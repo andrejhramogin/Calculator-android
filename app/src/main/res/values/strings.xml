@@ -4,4 +4,13 @@
     <string name="open_button_text">Open</string>
     <string name="my_application_title">My application</string>
     <string name="new_title">New title</string>
+    <string name="calculator_title">Calculator</string>
+    <string name="number_1">1</string>
+    <string name="number_2">2</string>
+    <string name="number_3">3</string>
+    <string name="button_start_calculator">start calculator</string>
+    <string name="plus_minus">+/-</string>
+    <string name="number_4">4</string>
+    <string name="number_5">5</string>
+    <string name="number_6">6</string>
 </resources>
